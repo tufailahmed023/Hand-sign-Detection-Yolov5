@@ -7,8 +7,10 @@ A pet project to decect muliple hand sign usein Yolov5
 ## Demo
 
 Insert gif or link to demo
+![UP](Up.jpg)
 
-![https://raw.githubusercontent.com/tufailahmed023/Hand-sign-Detection-Yolov5/main/Up.jpg] 0
+![ThumbsUp](ThumbsUp.jpg)
+
 ## Installation
 #### Clone this repo
 ```bash
