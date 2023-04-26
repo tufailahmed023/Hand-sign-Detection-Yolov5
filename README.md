@@ -1,1 +1,0 @@
-# Hand-sign-Detection-Yolov5
